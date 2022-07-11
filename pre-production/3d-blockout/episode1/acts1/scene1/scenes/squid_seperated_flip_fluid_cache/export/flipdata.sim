@@ -226,35 +226,35 @@
         },
         "initialize": {
             "bbox": {
-                "x": -9.35012435913086,
-                "xdim": 18.198570955716647,
-                "y": -20.868656158447266,
-                "ydim": 34.791385650634766,
-                "z": -2.819556951522827,
-                "zdim": 3.2115125215970552
+                "x": -11.26798152923584,
+                "xdim": 23.00768761268029,
+                "y": -20.69900131225586,
+                "ydim": 39.355255126953125,
+                "z": -5.563467025756836,
+                "zdim": 6.054654634915866
             },
             "delete_outdated_meshes": true,
             "delete_outdated_savestates": true,
-            "dx": 0.5352520869328425,
+            "dx": 0.6054654634915866,
             "enable_engine_debug_mode": false,
             "enable_savestates": true,
-            "frame_end": 1000,
+            "frame_end": 3000,
             "frame_start": 1,
-            "geometry_database_filepath": "G:\\My Drive\\seaside-paranormal-society\\pre-production\\3d-blockout\\episode1\\scene1\\scenes\\squid_seperated_flip_fluid_cache\\export\\export_data.sqlite3",
+            "geometry_database_filepath": "G:\\My Drive\\seaside-paranormal-society\\pre-production\\3d-blockout\\episode1\\acts1\\scene1\\scenes\\squid_seperated_flip_fluid_cache\\export\\export_data.sqlite3",
             "gpu_device": "",
-            "isize": 34,
+            "isize": 38,
             "jsize": 65,
-            "ksize": 6,
-            "logfile_name": "squid_seperated.001.txt",
+            "ksize": 10,
+            "logfile_name": "squid_seperated.007.txt",
             "name": "Cube",
-            "preview_dx": 1.0872308015823364,
+            "preview_dx": 1.2298517227172852,
             "savestate_interval": 50,
             "scale": 1.0,
             "upscale_simulation": false
         },
         "materials": {
             "surface_material": {
-                "data": "MATERIAL_NONE",
+                "data": "OceanWater",
                 "is_animated": false
             },
             "whitewater_bubble_material": {
@@ -891,7 +891,7 @@
                 "is_animated": false
             },
             "world_scale_absolute": {
-                "data": 34.791385650634766,
+                "data": 39.355255126953125,
                 "is_animated": false
             },
             "world_scale_mode": {
@@ -964,7 +964,7 @@
                 "data": true,
                 "is_animated": false
             },
-            "name": "Sphere",
+            "name": "Icosphere",
             "skip_reexport": {
                 "data": false,
                 "is_animated": false

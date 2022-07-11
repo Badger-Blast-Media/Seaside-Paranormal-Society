@@ -4,15 +4,15 @@
     "diffuse_particle_position_filedata": "",
     "diffuse_particle_type_filedata": "",
     "diffuse_particle_velocity_filedata": "",
-    "dx": 0.5352520869328425,
+    "dx": 0.6054654634915866,
     "frame": 200,
-    "frame_end": 1000,
+    "frame_end": 3000,
     "frame_id": 199,
     "frame_start": 1,
-    "isize": 34,
+    "isize": 38,
     "jsize": 65,
-    "ksize": 6,
-    "last_frame_id": 999,
+    "ksize": 10,
+    "last_frame_id": 2999,
     "marker_particle_affinex_filedata": "",
     "marker_particle_affiney_filedata": "",
     "marker_particle_affinez_filedata": "",
@@ -22,5 +22,5 @@
     "marker_particle_source_id_filedata": "",
     "marker_particle_velocity_filedata": "marker_particle_velocity.data",
     "num_diffuse_particles": 0,
-    "num_marker_particles": 2309
+    "num_marker_particles": 2754
 }
