@@ -4,7 +4,7 @@ Seaside Paranormal Society is a project designed to explore the processes of pre
 
 
 
-## SPS Discord Community
+## Discord Community
 
 https://discord.gg/vASyVAuF2H
 
